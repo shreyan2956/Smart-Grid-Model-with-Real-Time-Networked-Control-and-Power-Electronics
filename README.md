@@ -36,5 +36,3 @@ This Simulink file visually represents a complex smart grid system, enhanced by 
 
 **In Summary:**  
 This Simulink file serves as a comprehensive platform for examining the interplay between real-time communication and control in advanced smart grids, making it a powerful tool for both simulation and practical research in modern power engineering and smart grid technologies.
-
-IAxBJMHiIpGjuiGxuAagNup75%2FMY1Dcrtw923GT4FdnQ5SHW81R689wJZ34nRkIeW0lWobuY%2FGfsMjSRdZqd3mAbUBWEpA%3D%3D&Expires=1753927013
