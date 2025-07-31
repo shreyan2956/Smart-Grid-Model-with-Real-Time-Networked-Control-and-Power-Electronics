@@ -1,9 +1,5 @@
 # Smart-Grid-Model-with-Real-Time-Networked-Control-and-Power-Electronics
 
-Certainly! Let’s analyze the image and provide both a suitable title and a description for this Simulink file:
-
-**Suitable Title:**  
-**"TrueTime-Enabled Smart Grid Model with Real-Time Networked Control and Power Electronics"**
 
 **Description:**
 
